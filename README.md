@@ -3,12 +3,6 @@ Html, CSS and Javascript files of my portfolio website.
 
 In this repository I leave you the files with the code of my website, so that you can copy and modify them as you wish.
 
-Html file: Here you will find all the Html code, the structure of the website. The text, the icons, the links to the images...
-
-CSS file: This code marks the style of the website, from the size of the text to the color of the background. Here we also find the code that allows the web to be modified when the screen size changes, since it is not the same to see the website from a PC than from a mobile device.
-
-Javascript file: Here we will find some scripts, which allow certain effects on the website, such as revealing the content in parts when the page is scrolled down.
-
 Here is the link to my website: https://maxtorraportfolio.000webhostapp.com/
 
 
